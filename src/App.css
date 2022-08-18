@@ -11,7 +11,7 @@ h1{
   animation-duration: 3s;
   animation-fill-mode: forwards;
   color: rgb(246, 252, 251);
-  text-decoration:underline teal 2px;
+  text-decoration:underline white 2px;
 }
 button{
   border: 3px solid rgb(249, 247, 236);
